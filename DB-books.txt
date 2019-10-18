@@ -1,0 +1,281 @@
+On Writing
+Stephen King
+AUT-001
+3
+2
+
+Long Walk To Freedom
+Nelson Mandela
+AUT-002
+5
+4
+
+Personal Memoirs
+Ulysses S.Grant
+AUT-003
+1
+1
+
+Dreams From My Father
+Barack Obama
+AUT-004
+10
+7
+
+Agatha Christie: An Autobiography
+Agatha Christie
+AUT-005
+5
+5
+
+Nineteen Eighty-Four
+George Orwell
+NOV-001
+7
+7
+
+The Great Gatsby
+F. Scott Fitzgerald
+NOV-002
+1
+1
+
+Alice's Adventures In Wonderland
+Lewis Carroll
+NOV-003
+4
+4
+
+The Lord Of The Rings
+J. R. R. Tolkien
+NOV-004
+3
+1
+
+The Stranger
+Albert Camus
+NOV-005
+3
+3
+
+Don Quixote
+Miguel de Cervantes
+NOV-006
+2
+1
+
+David Copperfield
+Charles Dickens
+NOV-007
+1
+0
+
+Robinson Crusoe
+Daniel Defoe
+NOV-008
+1
+1
+
+Moby-Dick
+Herman Melville
+NOV-009
+2
+1
+     
+Macbeth
+William Shakespeare
+DRA-001
+3
+3
+
+Hamlet
+William Shakespeare
+DRA-002
+3
+2
+
+Romeo and Juliet
+William Shakespeare
+DRA-003
+2
+1
+
+The Importance Of Being Earnest
+Oscar Wilde
+DRA-004
+1
+1
+
+Antigone
+Sophocles
+DRA-005
+1
+0
+            
+The Fault In Our Stars
+John Green
+DRA-006
+15
+13
+
+To Kill A Mockingbird
+Harper Lee
+DRA-007
+2
+2
+
+Into The Wild
+Jon Krakauer
+ADV-001
+3
+3
+
+The Hobbit
+J. R. R. Tolkien
+ADV-002
+4
+4
+
+Harry Potter And The Philosopher's Stone
+J. K. Rowling
+ADV-003
+10
+9
+
+Mockingjay
+Suzanne Collins
+ADV-004
+7
+6
+
+The Three Musketeers
+Alexandre Dumas
+ADV-005
+6
+6
+
+Harry Potter And The Chamber Of Secrets
+J. K. Rowling
+ADV-006
+8
+7
+
+The Adventures Of Tom Sawyer
+Mark Twain
+ADV-007
+3
+3
+
+The Mysterious Island
+Jules Verne
+ADV-008
+4
+4
+
+Tarzan And The Apes
+Edgar Rice Burroughs
+ADV-009
+5
+4
+
+Odyssey
+Homer
+POE-001
+3
+3
+
+The Flowers Of Evil
+Charles Beaudelaire
+POE-002
+1
+1
+
+The Raven
+Edgar Allan Poe
+POE-003
+2
+2
+
+Sapiens: A Brief History Of Humankind
+Yuval Noah Harari
+HIS-001
+2
+2
+
+Decline And Fall Of The Roman Empire
+Edward Gibbon
+HIS-002
+1
+1
+
+The Diary Of A Young Girl
+Anne Frank
+HIS-003
+8
+8
+
+The Zookeeper's Wife
+Diane Ackerman
+HIS-004
+1
+0
+
+The History Of The Pelopennesian War
+Thucydides
+HIS-005
+2
+1
+
+Founding Brothers
+Joseph J. Ellis
+HIS-006
+2
+2
+
+Band Of Brothers
+Stephen E. Ambrose
+HIS-007
+3
+2
+
+The Best And The Brightest
+David Halberstam
+POL-001
+2
+1
+
+Dune
+Frank Herbert
+SFI-001
+1
+1
+
+The Time Machine
+H. G. Wells
+SFI-002
+2
+1
+
+Star Wars: Thrawn
+Timothy Zahn
+SFI-003
+2
+2
+
+The Man In The High Castle
+Philip K. Dick
+SFI-004
+11
+10
+
+I, Robot
+Isaac Asimov
+SFI-005
+3
+2
+
+20'000 Leagues Under The Sea: The Original Classic
+Jules Verne
+SFI-006
+5
+5
