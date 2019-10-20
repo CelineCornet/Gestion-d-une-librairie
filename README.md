@@ -5,7 +5,7 @@ Gestion de bases de données d'une librairie avec les membres et les livres. Ré
 
 # Interface graphique
 
-Le projet a été réalisé avec une interface graphique. Il suffit d’ouvrir la fenêtre en grand écran, déplacer la souris vers l’option désiré et appuyer sur une touche du clavier.
+Le projet a été réalisé avec une interface graphique. Il suffit d’ouvrir la fenêtre en grand écran, déplacer la souris vers l’option désirée et appuyer sur une touche du clavier.
 
 ![page de choix membre ou livre](https://github.com/CelineCornet/Gestion-d-une-librairie/blob/master/images/02.png)
 
@@ -13,9 +13,9 @@ Le projet a été réalisé avec une interface graphique. Il suffit d’ouvrir l
 
 Une base de données a déjà été implémentée. On peut alors :
 -	Voir la liste des membres et des livres
--	Rajouter un membre ou un livre
+-	Ajouter un membre ou un livre
 -	Supprimer un membre ou un livre
--	Rajouter un emprunt à un membre
+-	Ajouter un emprunt à un membre
 -	Rendre un livre par un membre
 -	Rechercher les informations d’un livre et les afficher
 -	Vérifier la date de rendu d’un livre
